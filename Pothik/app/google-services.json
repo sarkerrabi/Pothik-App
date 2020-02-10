@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341057443761",
+    "firebase_url": "https://pothik-1b8c7.firebaseio.com",
+    "project_id": "pothik-1b8c7",
+    "storage_bucket": "pothik-1b8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341057443761:android:41d230b97dd0d332",
+        "android_client_info": {
+          "package_name": "com.cse327.pothik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341057443761-gn1632bkcasdo4ic4vb2eoc35vp24n1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse327.pothik",
+            "certificate_hash": "b62ed48742464e5598c86512367b7e3af19c20ed"
+          }
+        },
+        {
+          "client_id": "341057443761-acaitauo9uvf4mj3m1hdkpkfhh5an7ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4C4WjOSHfWUK7gcjcfatBdSNd6WpeS6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341057443761-acaitauo9uvf4mj3m1hdkpkfhh5an7ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
